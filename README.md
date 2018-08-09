@@ -21,3 +21,11 @@ Note: "deploy": "gh-pages -d dist"
   - <strong>IMPORTANT</strong> : add <em>"homepage": "https://url.github.io/example/",</em> in between "main": "index.js", and "scripts": {
   
     - Replace "https://url.github.io/example/" with your desired url. 
+    
+#
+
+Upload and Update gh-pages
+  1) run git add .
+  2) run git commit -m ""
+  3) run git push 
+  4) run npm run deploy
