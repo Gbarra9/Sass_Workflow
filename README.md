@@ -26,6 +26,6 @@ Note: "deploy": "gh-pages -d dist"
 
 Upload and Update gh-pages
   1) run git add .
-  2) run git commit -m ""
+  2) run git commit -m "write any comment here"
   3) run git push 
   4) run npm run deploy
