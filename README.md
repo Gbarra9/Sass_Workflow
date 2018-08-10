@@ -1,16 +1,14 @@
-# Sass_Workflow
+# Sass Workflow
 
 <strong> Type 'npm install' to install dependencies. </strong>
 
-#
+# Scripts
 
 Note: "sass": "node-sass -w scss/ -o dist/css/ --recursive"
 
 <strong>Type 'npm run sass' to run script</strong>
 
   - This script will watch all changes in the scss folder. Sass code will be compiled to css code. The output will create a css file in the dist folder.
-
-#
 
 Note: "deploy": "gh-pages -d dist"
 
@@ -22,7 +20,7 @@ Note: "deploy": "gh-pages -d dist"
   
     - Replace "https://url.github.io/example/" with your desired url. 
     
-#
+# Upload & Update
 
 Upload and Update gh-pages
   1) run git add .
